@@ -4,10 +4,18 @@
 1학기 관통프로젝트 👍📝✏️
 
 ## 프로젝트 개요
- 추가예정
- 
+
 프로젝트 기간 : 2020년 11월 19일부터 25일까지 (일주일 간 진행)
-https://kr.vuejs.org/v2/guide/index.html
+
+[Vue.js 설치](https://kr.vuejs.org/v2/guide/index.html)를 통해 설치할 수 있습니다. 
+
+spring boot 
+
+npm install 
+
+npm run serve 를 통해 실행할 수 있습니다. 
+
+localhost:8080으로 실행할 수 있습니다.
  
 
 1차
