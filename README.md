@@ -7,15 +7,7 @@
 
 프로젝트 기간 : 2020년 11월 19일부터 25일까지 (일주일 간 진행)
 
-[Vue.js 설치](https://kr.vuejs.org/v2/guide/index.html)를 통해 설치할 수 있습니다. 
 
-spring boot 
-
-npm install 
-
-npm run serve 를 통해 실행할 수 있습니다. 
-
-localhost:8080으로 실행할 수 있습니다.
  
 
 1차
@@ -37,7 +29,15 @@ localhost:8080으로 실행할 수 있습니다.
 - 일정 삭제기능
 
 ## 실행 방법 
-- Vue.js 설치 설치방법은 
+Vue.js [Vue.js 설치](https://kr.vuejs.org/v2/guide/index.html)를 통해 설치할 수 있습니다. 
+
+spring boot 
+
+npm install 
+
+npm run serve 를 통해 실행할 수 있습니다. 
+
+localhost:8080으로 실행할 수 있습니다.
 
 ## 개발자
 
